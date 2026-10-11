@@ -1,0 +1,37 @@
+HALLOWEEN BATTLE OF THE BULK — TOURNAMENT HUB
+==============================================
+
+HOW TO OPEN
+  Double-click "Battle of the Bulk.html". It opens in your web browser.
+  No internet needed, nothing to install. Chrome or Edge works best.
+
+BEFORE THE EVENT
+  1. Settings -> fill in the date, start time and any notes/rules.
+  2. Kits -> rename any kit by clicking its name, or click "Photo"
+     to upload a picture for it. You can also add or remove kits.
+  3. Contestants -> add each player as they sign up and pay.
+
+ON THE NIGHT
+  * Kit Draw -> click "Roll the Bones". With "Random contestant" picked,
+    it picks WHO draws next, then spins the kits and stops on one.
+    Click "Undo this draw" if you need a do-over.
+  * Bracket -> choose a format and click "Begin the Battle".
+    Click any match to say who won. You can fix mistakes anytime.
+  * Results -> champion and final standings.
+
+TV / PROJECTOR
+  Click "TV display" at the top right. A second window opens with no
+  edit buttons. Drag it to the TV and click "Fullscreen".
+  It updates live as you enter results, and plays the kit draw spin too.
+
+SAVING (IMPORTANT)
+  Everything saves automatically, but ONLY inside the browser on THIS
+  computer. To be safe, or to move to another computer:
+    Settings -> "Save backup file", then copy that file onto this USB stick.
+    On the other computer: Settings -> "Load backup file".
+  Use the same browser on the same computer throughout the event.
+
+NEXT TOURNAMENT
+  Settings -> "Clear contestants & tournament" keeps your kits and
+  settings and wipes the players. Change the event name, kits, prices
+  and posters for the new event.
